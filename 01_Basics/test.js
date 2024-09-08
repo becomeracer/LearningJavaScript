@@ -1,1 +1,1 @@
-console.log("Hello World Right Now Testing!!!")
+console.log("hello world Now")
